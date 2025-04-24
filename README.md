@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rakshith1997-netizen/Rakshith1997-netizen/main/very_cool.png" alt="Cyber Haxxor" width="300"/>
+<img src="very_cool.png" alt="Cyber Haxxor" width="300" height="300"/>
 
 ## Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍
 

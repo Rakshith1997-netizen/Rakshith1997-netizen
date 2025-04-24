@@ -1,13 +1,19 @@
-<p>Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍<br>
-🐍 Python whisperer | ☁️ Cloud conjurer | 🔐 DevSecOps ninja | 👾 Debugging reality<br><br>
+<table>
+  <tr>
+    <td>
+      Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍<br>
+      🐍 Python whisperer | ☁️ Cloud conjurer | 🔐 DevSecOps ninja | 👾 Debugging reality<br><br>
 
-Building Large Language Models that could roast me back.<br>
-Automating life so I don't have to click buttons (ew).<br>
-Breaking things in Cybersecurity — on purpose... mostly.<br>
-Teaching AI to write code while I rethink all my life choices.
-</p>
-
-<img src="https://raw.githubusercontent.com/Rakshith1997-netizen/Rakshith1997-netizen/main/very_cool.png" alt="Cyber Haxxor" width="300" height="300" style="float:right; margin-left:20px;"/>
+      Building Large Language Models that could roast me back.<br>
+      Automating life so I don't have to click buttons (ew).<br>
+      Breaking things in Cybersecurity — on purpose... mostly.<br>
+      Teaching AI to write code while I rethink all my life choices.
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Rakshith1997-netizen/Rakshith1997-netizen/main/assets/very_cool.png" alt="Cyber Haxxor" width="300" height="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ---

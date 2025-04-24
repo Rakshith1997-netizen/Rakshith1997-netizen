@@ -9,9 +9,9 @@ Teaching AI to write code while I rethink all my life choices.
 ---
 
 #### I roam around:
-- 🧠 [LeetCode](https://leetcode.com/u/saitama_97/)
-- 📊 [Kaggle](https://www.kaggle.com/saitama97)
-- 🤗 [Hugging Face](https://huggingface.co/Saitamajr97)
+- 👨‍💻 **LeetCode**: [leetcode.com/saitama_97](https://leetcode.com/u/saitama_97/)
+- 📊 **Kaggle**: [kaggle.com/saitama97](https://www.kaggle.com/saitama97)
+- 🤗 **Hugging Face**: [huggingface.co/Saitamajr97](https://huggingface.co/Saitamajr97)
 
 ---
 

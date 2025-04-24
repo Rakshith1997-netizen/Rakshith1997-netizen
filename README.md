@@ -1,5 +1,3 @@
-<img src="very_cool.png" alt="Cyber Haxxor" width="300" height="300"/>
-
 ## Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍
 
 🐍 Python whisperer | ☁️ Cloud conjurer | 🔐 DevSecOps ninja | 👾 Debugging reality  

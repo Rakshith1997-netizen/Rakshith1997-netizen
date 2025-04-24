@@ -1,4 +1,4 @@
-![Cyber Haxxor](Rakshith1997-netizen/assets/very_cool.png)
+![Cyber Haxxor](assets/very_cool.png)
 
 ## 🧠 Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍
 

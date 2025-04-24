@@ -8,25 +8,11 @@ Teaching AI to write code while I rethink all my life choices.
 
 ---
 
-#### I roam around:
-- 👨‍💻 **LeetCode**: [leetcode.com/saitama_97](https://leetcode.com/u/saitama_97/)
-- 📊 **Kaggle**: [kaggle.com/saitama97](https://www.kaggle.com/saitama97)
-- 🤗 **Hugging Face**: [huggingface.co/Saitamajr97](https://huggingface.co/Saitamajr97)
-
----
-
 #### Random but True:
 🏸 I smash on the badminton court like it's a boss fight 
 💬 I talk to ChatGPT like it’s my therapist.    
 🎌 Anime runs in my veins (yes, I’ve cried over fictional characters) 
 ☕ I run on caffeine, curiosity, and just a *little* chaos.
-
----
-
-#### Hit me up:
-- [LinkedIn](https://www.linkedin.com/in/rakshith-j-r-98a41368/)
-- `rakshith.jr79@gmail.com`
-- Or just ping the cloud gods and hope I hear you
 
 ---
 

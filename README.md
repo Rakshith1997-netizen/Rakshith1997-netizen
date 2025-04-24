@@ -1,6 +1,6 @@
 ![Cyber Haxxor](assets/very_cool.png)
 
-## 🧠 Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍
+## Hey, I’m Rakshith — your friendly neighborhood Pythonista 👨‍💻🐍
 
 🐍 Python whisperer | ☁️ Cloud conjurer | 🔐 DevSecOps ninja | 👾 Debugging reality  
 
